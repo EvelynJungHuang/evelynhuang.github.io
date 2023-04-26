@@ -1,0 +1,34 @@
+baseURL: ""
+languageCode: en-us
+title: Evelyn's portfolio
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    title: "Hello Stranger"
+    Content: Welcome! 
+  socialIcons:
+    - name: github
+      url: "https://github.com/EvelynJungHuang"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/evelyn-huang-ba2506259/" 
+  cover:
+    linkFullImages: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+menu:
+  main:
+    - identifier: Categories
+      name: Categories
+      url: /Categories/
+      weight: 10
+    - identifier: Tags
+      name: Tags
+      url: /Tags/
+      weight: 20
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 30
