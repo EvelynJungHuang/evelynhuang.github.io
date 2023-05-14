@@ -7,8 +7,8 @@ cover:
     alt: 'This is a post image'
     caption: 'This is a caption'
 
-Tags: ["html","css"]
-Categories: ["tech"]
+Tags: ["insomnia","psychology"]
+Categories: ["psychology"]
 ---
 
 # Hi, I am Evelyn
