@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://github.com/EvelynJungHuang/evelynhuang.github.io.git/"
 languageCode: en-us
 title: Evelyn's portfolio
 theme: PaperMod
@@ -6,12 +6,12 @@ theme: PaperMod
 params:
   homeInfoParams:
     title: "Hello Stranger"
-    Content: Welcome! 
+    Content: Welcome!
   socialIcons:
     - name: github
       url: "https://github.com/EvelynJungHuang"
     - name: linkedin
-      url: "https://www.linkedin.com/in/evelyn-huang-ba2506259/" 
+      url: "https://www.linkedin.com/in/evelyn-huang-ba2506259/"
   cover:
     linkFullImages: true
   ShowBreadCrumbs: true
