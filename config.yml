@@ -13,6 +13,8 @@ params:
       url: "https://github.com/EvelynJungHuang"
     - name: linkedin
       url: "https://www.linkedin.com/in/evelyn-huang-ba2506259/"
+    - name: facebook
+      url: "https://www.facebook.com/evelyn.huang.35912/"
   cover:
     linkFullImages: true
   ShowBreadCrumbs: true
