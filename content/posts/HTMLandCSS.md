@@ -8,8 +8,8 @@ cover:
   alt: "This is a post image"
   caption: ""
 
-Tags: ["psychology", "web practice"]
-Categories: ["psychology", "coding"]
+Tags: ["Psychology", "Web practice"]
+Categories: ["Psychology", "Coding"]
 ---
 
 在 udemy 學習網頁開發之後，決定從簡單的 html 和 css 練習開始。  
