@@ -6,8 +6,8 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    title: "Hello Stranger"
-    Content: Welcome!
+    title: "Hello! :)"
+    Content: Welcome to my portfolio!
   socialIcons:
     - name: github
       url: "https://github.com/EvelynJungHuang"
@@ -31,7 +31,7 @@ menu:
       name: Tags
       url: /Tags/
       weight: 20
-    - identifier: archives
-      name: archives
+    - identifier: Archives
+      name: Archives
       url: /archives/
       weight: 30

@@ -3,8 +3,13 @@ title: "HTML與CSS練習：心理衡鑑知識網站"
 date: 2023-12-18T23:44:06+08:00
 draft: false
 
+cover:
+  image: img/psychology_website.jpg
+  alt: "This is a post image"
+  caption: ""
+
 Tags: ["psychology", "web practice"]
-Categories: ["psychology"]
+Categories: ["psychology", "coding"]
 ---
 
 在 udemy 學習網頁開發之後，決定從簡單的 html 和 css 練習開始。  
