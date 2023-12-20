@@ -4,7 +4,7 @@ date: 2023-05-08T12:28:01+08:00
 draft: false
 
 cover:
-  image: img/Tkinter-demo.jpg
+  image: /img/Tkinter-demo.jpg
   alt: "This is a post image"
   caption: ""
 

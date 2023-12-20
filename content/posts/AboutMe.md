@@ -3,7 +3,7 @@ title: "Who am I? 關於我這個人"
 date: 2023-12-19T12:23:21+08:00
 draft: false
 cover:
-  image: img/photo-autobiography.JPG
+  image: /img/photo-autobiography.JPG
   alt: "This is a post image"
   caption: ""
 

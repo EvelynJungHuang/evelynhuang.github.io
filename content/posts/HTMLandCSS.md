@@ -4,7 +4,7 @@ date: 2023-12-18T23:44:06+08:00
 draft: false
 
 cover:
-  image: img/psychology_website.jpg
+  image: /img/psychology_website.jpg
   alt: "This is a post image"
   caption: ""
 

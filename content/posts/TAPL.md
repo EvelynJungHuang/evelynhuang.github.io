@@ -3,7 +3,7 @@ title: "司法精神醫學會工作經歷"
 date: 2022-10-02T12:23:21+08:00
 draft: false
 cover:
-  image: img/TAPL_pic.jpg
+  image: /img/TAPL_pic.jpg
   alt: "This is a post image"
   caption: ""
 

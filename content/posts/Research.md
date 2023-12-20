@@ -3,7 +3,7 @@ title: "碩論研究：九二一大地震長期身心追蹤"
 date: 2022-09-07T12:23:21+08:00
 draft: false
 cover:
-  image: img/921_earthquake.JPG
+  image: /img/921_earthquake.JPG
   alt: "This is a post image"
   caption: ""
 

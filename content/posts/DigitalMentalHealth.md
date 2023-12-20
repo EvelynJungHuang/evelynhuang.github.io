@@ -3,7 +3,7 @@ title: "文章筆記：Methods in Digital Mental Health: Smartphone-Based Assess
 date: 2023-11-30T12:22:21+08:00
 draft: false
 cover:
-  image: img/cbt-app.jpg
+  image: /img/cbt-app.jpg
   alt: "This is a post image"
   caption: "picture from https://www.apaservices.org/practice/business/technology/tech-column/cbt-app-depression"
 

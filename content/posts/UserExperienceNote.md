@@ -3,7 +3,7 @@ title: "用戶體驗設計入門課程筆記"
 date: 2023-06-30T12:23:21+08:00
 draft: false
 cover:
-  image: img/UserExperienceCertificate.jpg
+  image: /img/UserExperienceCertificate.jpg
   alt: "This is a post image"
   caption: ""
 
