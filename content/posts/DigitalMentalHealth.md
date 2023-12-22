@@ -11,6 +11,17 @@ Tags: ["Psychology", "Mobile"]
 Categories: ["Psychology", "Mobile"]
 ---
 
+## 為何我閱讀此篇文章
+
+一直以來對於科技如何幫助心理健康十分有興趣，
+在社會對心理健康越來越重視、科技的技術也不斷進步之下，
+相信未來兩者結合的發展也會是一個重要趨勢。
+
+本文探討目前智慧型手機可以幫助促進心理健康評估與治療的一些方向，
+節錄重點於下。
+
+---
+
 ### 引言
 
 - 科技對現代心理健康的助益：
@@ -28,7 +39,7 @@ Categories: ["Psychology", "Mobile"]
   - 收集資料的方式：可被動收集個體日常生活行為，或在適當的時機（如：每固定兩個小時、當個體做某件行為時）主動發送訊息請個體填寫量表
   - 介入的時機：可在個體最需要的時候，或在日常最常生活、影響最大的空間
   - 評估與預測：可運用 AI 演算法，根據收集到的資料，進行後續的預測
-  - anywhere, anytime” (A-A) principle：根據 A-A 原則，可進行多樣的資料收集，如：descriptive experience sampling (DES)、ecological momentary assessment (EMA)、experience sampling method (ESM)
+  - "anywhere, anytime” (A-A) principle：根據 A-A 原則，可進行多樣的資料收集，如：descriptive experience sampling (DES)、ecological momentary assessment (EMA)、experience sampling method (ESM)
 - 目前的相關運用：
   - 使用文字、音訊、動畫、工作表或日記等功能，提供多樣化介入，如：肌肉放鬆、呼吸、情緒評級、日記、積極陳述和冥想技術
   - 檢測生理環境刺激（如：身體活動量、光照）以協助檢測憂鬱症，或是以 GPS 定位資訊、電話次數以預測孤獨感。
