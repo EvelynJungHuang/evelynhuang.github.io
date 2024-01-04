@@ -12,10 +12,7 @@ Tags: ["Python"]
 Categories: ["Coding"]
 ---
 
-在學習 python 時，以 Tkinter 套件建立圖像化介面，
-使用 python 語法，定義函數的輸入與輸出數值、
-建立 list 並判斷 int 是否在 list 中，
-以及用 if- else 判斷相對應顯示結果
+在學習 python 時，以 Tkinter 套件建立圖像化介面，使用 python 語法，定義函數的輸入與輸出數值，依輸入值建立 List，並判斷後續輸入的 int 是否在 list 中，以及用 if- else 判斷相對應顯示結果。
 
 ---
 
