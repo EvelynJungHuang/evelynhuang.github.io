@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Experience on Evelyn&#39;s portfolio</title>
+    <link>//localhost:1313/categories/user-experience/</link>
+    <description>Recent content in User Experience on Evelyn&#39;s portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 12:23:21 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/user-experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用戶體驗設計入門課程筆記</title>
+      <link>//localhost:1313/posts/userexperiencenote/</link>
+      <pubDate>Fri, 30 Jun 2023 12:23:21 +0800</pubDate>
+      <guid>//localhost:1313/posts/userexperiencenote/</guid>
+      <description>&lt;h3 id=&#34;4-step-design-process&#34;&gt;4 Step Design Process&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Step 1: 搜集需求（Requirements Gathering）：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;了解使用者以及她的目標是什麼？&lt;/li&gt;&#xA;&lt;li&gt;目前做了什麼嘗試？&lt;/li&gt;&#xA;&lt;li&gt;了解問題空間（Problem Space）：什麼阻礙了任務的完成、如何改進任務或流程&lt;/li&gt;&#xA;&lt;li&gt;可運用一系列的技術提供設計者搜集有關使用者的資訊、他們的目標以及目前的方式&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Step 2: 設計替代方案（Design Alternatives）：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;在了解使用者的資訊、他們的目標以及目前的方式後，可以運用這些資料提出不同的設計方案，以提升使用者經驗&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Step 3: 原型製作（Prototyping）：對新的設計進行原型製作與模擬&lt;/li&gt;&#xA;&lt;li&gt;Step 4: 評估（Evaluation）：針對設計是否符合使用者需求進行評估&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;important-term-and-concept&#34;&gt;Important Term and Concept&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;使用者設計的核心概念：使用者運用介面以完成某項任務。&#xA;&lt;ul&gt;&#xA;&lt;li&gt;使用者：使用科技以幫助自己完成某項任務的個體&lt;/li&gt;&#xA;&lt;li&gt;介面：使用者任務和系統核心功能中間的中介者&lt;/li&gt;&#xA;&lt;li&gt;設計：某項創新的發想，可以符合需求&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;使用者經驗設計的目標：設定介面是 useful（有用的）且 usable（可用的）。&#xA;&lt;ul&gt;&#xA;&lt;li&gt;useful：可幫助使用者完成任務，刺激可真的引發期望的結果&lt;/li&gt;&#xA;&lt;li&gt;usable：使用者完成任務時具備效能、效率和滿足&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;features-of-good-design&#34;&gt;Features of Good Design&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Affordable：事物的感知和實際屬性，主要是那些決定事物如何使用的基本屬性，例如：看到按鈕會覺察到應該按下去。&lt;/li&gt;&#xA;&lt;li&gt;Signifier：告訴使用者應該操作動作應該怎麼做、如何進行，例如：指示使用者如果要傳簡訊，應該按下哪些按鈕。&lt;/li&gt;&#xA;&lt;li&gt;Feedback：回饋給使用者，操作的 input 所帶來的結果&lt;/li&gt;&#xA;&lt;li&gt;Userable Interface: 使用者可以知道輸入怎麼樣的 input 會獲得期望的 output&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;features-of-good-design-1&#34;&gt;Features of Good Design&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Affordable：事物的感知和實際屬性，主要是那些決定事物如何使用的基本屬性，例如：看到按鈕會覺察到應該按下去。&lt;/li&gt;&#xA;&lt;li&gt;Signifier：告訴使用者應該操作動作應該怎麼做、如何進行，例如：指示使用者如果要傳簡訊，應該按下哪些按鈕。&lt;/li&gt;&#xA;&lt;li&gt;Feedback：回饋給使用者，操作的 input 所帶來的結果&lt;/li&gt;&#xA;&lt;li&gt;Userable Interface: 使用者可以知道輸入怎麼樣的 input 會獲得期望的 output&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;user-engagement-proces&#34;&gt;User Engagement Proces&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Introduction：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>音樂設計與創新運用課程專案-音樂電梯設計</title>
+      <link>//localhost:1313/posts/musicelevator/</link>
+      <pubDate>Tue, 10 Jan 2017 12:23:21 +0800</pubDate>
+      <guid>//localhost:1313/posts/musicelevator/</guid>
+      <description>&lt;h3 id=&#34;-project-overview-專案理念&#34;&gt;🌱 Project Overview 專案理念&lt;/h3&gt;&#xA;&lt;p&gt;本專案旨在尋求音樂、空間與人互動的可能性，以上課/辦公大樓經常使用的電梯空間為發想，試圖增加搭乘電梯的互動體驗。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-專案建構流程&#34;&gt;🌟 專案建構流程&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;界定設計主軸：以空間為發想&lt;/li&gt;&#xA;&lt;li&gt;觀察人與空間的互動，進行訪談&lt;/li&gt;&#xA;&lt;li&gt;依據訪談歸納出設計構想&lt;/li&gt;&#xA;&lt;li&gt;創作音樂部分技術人員協調&lt;/li&gt;&#xA;&lt;li&gt;成品產出&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-設計構思-訪談主題&#34;&gt;✏️ 設計構思-訪談主題&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;了解使用者乘坐電梯的心理狀態 / 密閉空間與開放空間對於使用者的差異&lt;/li&gt;&#xA;&lt;li&gt;了解使用電梯人數對使用者心理影響&lt;/li&gt;&#xA;&lt;li&gt;電梯的使用流程與當下會做的事&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-提案構想&#34;&gt;💡 提案構想&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;電梯內相較於電梯外，可以做的事更少，因此希望著重於電梯內的設計，讓大家搭電梯不會無聊&lt;/li&gt;&#xA;&lt;li&gt;在電梯內，人和人的連結很少，跟他人多半呈現距離或抗拒，希望可以藉由設計，增加人與人之間的連結&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-專案執行&#34;&gt;🔦 專案執行&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;將電梯空間分成四個象限，另外設計一首音樂，將其分成四軌，空間的一格對應到一軌音樂，當電梯的該象限有人站著時，會觸動開關，使對應的音軌播放&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

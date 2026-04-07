@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Evelyn&#39;s portfolio</title>
+    <link>//localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Evelyn&#39;s portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 May 2023 12:28:01 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python練習-用Tkinter建立圖像化介面</title>
+      <link>//localhost:1313/posts/tkinter/</link>
+      <pubDate>Mon, 08 May 2023 12:28:01 +0800</pubDate>
+      <guid>//localhost:1313/posts/tkinter/</guid>
+      <description>&lt;p&gt;在學習 python 時，以 Tkinter 套件建立圖像化介面，使用 python 語法，定義函數的輸入與輸出數值，依輸入值建立 List，並判斷後續輸入的 int 是否在 list 中，以及用 if- else 判斷相對應顯示結果。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;網址：https://github.com/EvelynJungHuang/tkinter-demo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

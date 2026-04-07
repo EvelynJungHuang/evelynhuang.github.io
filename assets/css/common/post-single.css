@@ -253,6 +253,31 @@
     font-weight: normal;
 }
 
+.post-content {
+    color: var(--content);
+    /* 調整內文字體大小 */
+    font-size: 15px; 
+    /* 調整行高，1.7 到 1.8 是閱讀最舒服的比例 */
+    line-height: 1.8;
+    /* 增加段落間的距離，讓呼吸感更好 */
+}
+
+/* 針對段落 p 進行微調 */
+.post-content p {
+    margin-bottom: 1.5rem;
+    letter-spacing: 0.01em; /* 增加一點點字距，讓文字不擠在一起 */
+}
+
+/* 調整引用（名言）部分的字體，讓它稍微小一點點，更有層次感 */
+.post-content blockquote {
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--secondary);
+    margin: 30px 0;
+    padding: 0 20px;
+    border-inline-start: 4px solid var(--primary);
+}
+
 .toc {
     margin: 0 2px 40px 2px;
     border: 1px solid var(--border);

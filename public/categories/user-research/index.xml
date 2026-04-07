@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Research on Evelyn&#39;s portfolio</title>
+    <link>//localhost:1313/categories/user-research/</link>
+    <description>Recent content in User Research on Evelyn&#39;s portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 12:23:21 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/user-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>台大心理系學生課程滿意度意見調查</title>
+      <link>//localhost:1313/posts/classinvestigation/</link>
+      <pubDate>Wed, 27 Apr 2016 12:23:21 +0800</pubDate>
+      <guid>//localhost:1313/posts/classinvestigation/</guid>
+      <description>&lt;h3 id=&#34;-專案目標&#34;&gt;🌱 專案目標&lt;/h3&gt;&#xA;&lt;p&gt;因大學系方欲針對系上的課程進行改革，因此由系學會組成設計出此份問卷進行調查。本問卷的目的在於調查學生對於現行系上課程的滿意度與意見，提供老師關於學生的想法，並作為學生與老師間溝通的橋樑。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-問卷結構&#34;&gt;🌟 問卷結構&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;課程了解程度：了解學生是否能理解課程整體規劃設計&lt;/li&gt;&#xA;&lt;li&gt;課程滿意度：以是否學習到心理學概念、未來學以致用發展為面向設計題目，每一題再分別針對重要程度、同意程度進行評分，以找出各面向的急迫性&lt;/li&gt;&#xA;&lt;li&gt;開放性題目：開放性詢問學生在意的學習面向，以提供系方質性資料參考&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

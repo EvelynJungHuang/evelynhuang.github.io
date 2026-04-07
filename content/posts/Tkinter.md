@@ -1,7 +1,7 @@
 ---
 title: "Python練習-用Tkinter建立圖像化介面"
 date: 2023-05-08T12:28:01+08:00
-draft: false
+draft: true
 
 cover:
   image: /img/Tkinter-demo.jpg
